@@ -1,0 +1,15 @@
+{
+  "name": "near-contract3",
+  "version": "1.0.0",
+  "description": "Simple example of as single counter in AS",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp",
+    "build":"asb"  
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
